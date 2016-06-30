@@ -6,23 +6,10 @@ This repo is just a boilerplate that allows you to easily begin developing stati
 
 In this repo to use:
 ```HTML
-<pre>
-    <div class="container">
-        <h2>For Browser-Sync</h2>
-        <div class="wrap">
-            gulp dev
-        </div>
-    </div>
-    <div class="container">
-        <h2>Individual actions</h2>
-        <div class="wrap">
-            gulp
-        </div>
-        <div class="wrap">
-            webpack
-        </div>
-    </div>
-</pre>
+gulp dev
+<!-- OR -->
+gulp
+webpack
 ```
 
 ## License

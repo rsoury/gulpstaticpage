@@ -8,7 +8,7 @@ module.exports = {
         "scripts" : "./public/javascripts/scripts.js",
     },
     output: {
-        path: __dirname + "dist/public/javascripts",
+        path: __dirname + "/dist/javascripts/",
         filename: "[name].min.js",
     },
     module: {
